@@ -1,5 +1,5 @@
-## This repository provides R code relevant to Constantinides et al (2024): 
-https://doi.org/10.1016/j.cortex.2023.11.015
+## This repository provides R code related Constantinides et al (2024): 
+Linked aper: https://doi.org/10.1016/j.cortex.2023.11.015
 
 ### Step 1. Sample selection and relevant variables
 A desicription of the ALSPAC variables (and recoding) used for the current analyses can be found in the relevant spreadsheet: 'Variables_Info_CC_02102023.xlsx'. The R code used to extract the SCZ-RbG subsample (and relevant variables) from the wider ALSPAC dataset will be added soon. 
