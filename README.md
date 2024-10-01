@@ -74,7 +74,7 @@ The following scripts were used for data wrangling and statistical analyses of t
 
 (4a) '4a_ALSPAC_SCZ_RbG_data_tranform_and_cleaning_28092024.R' - Recodes/transforms original variables and removes particpants with failed image QC
 
-(4b) '4b_ALSPAC_SCZ_RbG_BA_data_analysis_28092024.R' - generates sample descriptives (including model pefromance for the final sample) and statistical ouput for assocation between PEs and brain-PAD
+(4b) '4b_ALSPAC_SCZ_RbG_BA_data_analysis_28092024.R' - generates sample descriptives (including model pefromance for the final sample) and statistical ouput for assocation between SCZ-PRS and brain-PAD
 
 -End of workflow-
 
