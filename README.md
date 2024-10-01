@@ -68,9 +68,6 @@ Plus two additional scripts loaded by script 3b as functions: 'CB.model.fits.bra
 
 The ouput dataset named as 'ALSPAC_SCZ_RbG_BA_CB.RData' should be used for step 4. 
 
-#### ** NOTE **
-At the time of accessing this newly developed resource for the current project (20.12.2022), the model used was trained on the age range of 20-30 years (for more details please refer to the supplementary material of Contantinides et al., 2024). As indicated above, this is NOT the same model as the one currrently available on the CentileBrain platofrom (link provide above), which was trained on the optimal age range of 5-40 years (refe to Yu et al., 2024 for the rationale and empirical data supporting this decision). Therefore, if you repeat the above process with the current version of the CentileBrain model for the current sample (ALSPAC-SCZ-RbG) you might get somewhat different results than those reported in the published manuscript (Constantinides et al., 2024). 
-
 ### Step 4. Statistical analyses
 
 The following scripts were used for data wrangling and statistical analyses of the association between SCZ-PRS and brain-PAD: 
